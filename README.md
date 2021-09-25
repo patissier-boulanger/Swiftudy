@@ -4,6 +4,7 @@
 
 <br>
 
+
 ## Goal
 
 본 스터디는 목적은 다음과 같습니다.
@@ -11,6 +12,16 @@
 *  `SwiftUI` 의 특징을 알고 사용할 수 있다. 
 *  `Swift` 혹은 `SwiftUI`를 사용해서 iOS app을 만들 수 있다.
 *  `Swift` 를 사용해 크로스 플랫폼 프레임 워크에서 발생하는 문제를 해결할 수 있다. 
+
+<br>
+
+## 기간
+* 매주 금요일 오후 9시
+
+<br>
+
+## 방식
+* 정해진 범위를 공부해서 공유할 사항을 각자 정리한 후, 스터디에서 취합 후 Organization에 정리
 
 <br>
 
@@ -38,33 +49,13 @@
 ## 
 
 <br>
-<br>
 
 * **Chpater 1: Learn Swift**
 
-> | Chapter | Subject                                  | Note 
-> | ------- | ---------------------------------------- | ---- 
-> | 1       | [Introduction to Swift]()                |
-> | 2       | [Consolidation]()                        | 
-> | 3       | [Consolidation II]()  |
-> | 4       | [Web views, user input, and Auto Layout]()  |     
-> | 5       | [Consolidation III]() |    
-> | 6       | [Codable, buttons, and GCD]()   |     
-> | 7       | [Consolidation IV]()  |     
-> | 8       | [A whole new world]()  |     
-> | 9       | [Consolidation V]() |    
-> | 10      | [Images and animation]()   |     
-> | 11      | [Consolidation VI]()  |     
-> | 12      | [Maps and bugs]()  |     
-> | 13      | [Consolidation VII]() |    
-> | 14      | [Leveling up]()   |     
-> | 15      | [Consolidation VIII]()  |     
-> | 16      | [Beacons and bombs]()  |     
-> | 17      | [Consolidation IX]()   |     
-> | 18      | [Multipeer and motion]()  |     
-> | 19      | [Consolidation X]()  | 
-> | 20      | [The Final Countdown]()  |
-> | 21      | [Consolidation XI]()  |
+> | Week    | Subject                                            | Day 
+> | ------- | -------------------------------------------------- | ------ 
+> | 1       | Introduction to Swift, Consolidation I             | 1 ~ 15
+> | 2       | 추가 예정 |   
 
 <br>
 
@@ -72,8 +63,8 @@
 
 > | Chapter | Subject                                  | Note 
 > | ------- | ---------------------------------------- | ---- 
-> | 1       | [Introduction to SwiftUI]() |    
-> | 2       | [추가 예정]() |    
+> | 1       | Introduction to SwiftUI |    
+> | 2       | 추가 예정 |    
 
 <br>
 
@@ -81,8 +72,8 @@
 
 > | Chapter | Subject                                  | Note 
 > | ------- | ---------------------------------------- | ---- 
-> | 1       | [What to build?]() | 
-> | 2       | [추가 예정]() |       
+> | 1       | What to build? | 
+> | 2       | 추가 예정 |       
 
 
 <br>
@@ -91,8 +82,8 @@
 
 > | Chapter | Subject                                  | Note
 > | ------- | ---------------------------------------- | ----
-> | 1       | [크로스 플랫폼에서의 필요성]() |    
-> | 2       | [추가 예정]() |    
+> | 1       | 크로스 플랫폼에서의 필요성 |    
+> | 2       | 추가 예정 |    
 
 <br>
 
